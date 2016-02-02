@@ -1,4 +1,4 @@
-name := "TritonNote-Lambda-Moon"
+name := "TritonNote-Lambda-MoonPhase"
 
 version := "1.0.2"
 
